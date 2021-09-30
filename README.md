@@ -35,12 +35,11 @@
 <details>
 <summary><b>Show</b></summary>
 <div markdown="1">
-
+<iframe width="740" height="416" src="https://www.youtube.com/embed/xrFvP-lgjZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </br>
 <figure>
     <div><b><i>■ Launch Application</i></b></div>
-    {% include video id="xrFvP-lgjZg" provider="youtube" %}
-
+    
 </figure>
 
 </div>
