@@ -39,7 +39,8 @@
 </br>
 <figure>
     <div><b><i>■ Launch Application</i></b></div>
-    <iframe width="740" height="416" src="https://www.youtube.com/embed/xrFvP-lgjZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {% include video id="xrFvP-lgjZg" provider="youtube" %}
+
 </figure>
 
 </div>
