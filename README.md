@@ -32,7 +32,6 @@
 </br>
 
 **구동 영상**
-<iframe width="740" height="416" src="https://www.youtube.com/embed/xrFvP-lgjZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <details>
 <summary><b>Show</b></summary>
 <div markdown="1">
@@ -40,7 +39,8 @@
 </br>
 <figure>
     <div><b><i>■ Launch Application</i></b></div>
-    
+    [![구동영상](https://img.youtube.com/vi/xrFvP-lgjZg/0.jpg)](https://www.youtube.com/watch?v=xrFvP-lgjZg)
+
 </figure>
 
 </div>
