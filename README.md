@@ -1,8 +1,5 @@
 # RaspberryPI 불쾌지수 선풍기
 
-## ■ 구동영상
-
-
 ## ■ 불쾌지수란 ?
 - 온도, 습도 등 여러 조건에서 인간이 느끼는 불쾌한 정도나 스트레스를 수치화 한 것
 `
@@ -32,19 +29,16 @@
 </br>
 
 **구동 영상**
-<details>
-<summary><b>Show</b></summary>
-<div markdown="1">
-
 </br>
-<figure>
-    <div><b><i>■ Launch Application</i></b></div>
-    [![구동영상](https://img.youtube.com/vi/xrFvP-lgjZg/0.jpg)](https://www.youtube.com/watch?v=xrFvP-lgjZg)
-
-</figure>
-
-</div>
-</details>
+</br>
+<i>불쾌지수 단계에 따라 자동으로 모터 동작 및 LED 점등</i>
+</br>
+[![auto-run](https://img.youtube.com/vi/xrFvP-lgjZg/0.jpg)](https://www.youtube.com/watch?v=xrFvP-lgjZg)
+</br>
+</br>
+<i>블루투스로 단계별 DC모터의 회전속도 및 서보모터 조정</i>
+</br>
+[![bt-run](https://img.youtube.com/vi/JICX_9KOKDk/0.jpg)](https://www.youtube.com/watch?v=JICX_9KOKDk)
 
 ## ■ Tech Stack
 
