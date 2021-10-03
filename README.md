@@ -76,6 +76,7 @@
 #### RaspberryPI GPIO
 - 온습도 센서(DHT11)
 - LED 모듈
+- DC 모터
 - Servo 모터
 #### DB
 - MariaDB
