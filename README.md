@@ -1,6 +1,6 @@
 # RaspberryPI 불쾌지수 선풍기
 
-## #발표 PPT (<a href="https://docs.google.com/presentation/d/13k9aKk9s_p841ZmdHCIf6z4bZ09m_BoG/edit?usp=sharing&ouid=117164901976813630182&rtpof=true&sd=true" target="_blank">보기</a>)
+### # 발표 PPT (<a href="https://docs.google.com/presentation/d/13k9aKk9s_p841ZmdHCIf6z4bZ09m_BoG/edit?usp=sharing&ouid=117164901976813630182&rtpof=true&sd=true" target="_blank">보기</a>)
 
 ## ■ 불쾌지수란 ?
 - 온도, 습도 등 여러 조건에서 인간이 느끼는 불쾌한 정도나 스트레스를 수치화 한 것
