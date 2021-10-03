@@ -58,10 +58,14 @@
 </br>
 <i>불쾌지수 단계에 따라 자동으로 모터 동작 및 LED 점등</i>
 </br>
+▼ Youtube 바로가기 (<a href="https://www.youtube.com/watch?v=xrFvP-lgjZg">클릭</a>)
+</br>
 [![auto-run](https://img.youtube.com/vi/xrFvP-lgjZg/0.jpg)](https://www.youtube.com/watch?v=xrFvP-lgjZg)
 </br>
 </br>
 <i>블루투스로 단계별 DC모터의 회전속도 및 서보모터 조정</i>
+</br>
+▼ Youtube 바로가기 (<a href="https://www.youtube.com/watch?v=JICX_9KOKDk">클릭</a>)
 </br>
 [![bt-run](https://img.youtube.com/vi/JICX_9KOKDk/0.jpg)](https://www.youtube.com/watch?v=JICX_9KOKDk)
 
